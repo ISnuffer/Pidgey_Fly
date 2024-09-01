@@ -1,0 +1,5 @@
+greenlet==3.0.3
+keyboard==0.13.5
+pillow==10.4.0
+SQLAlchemy==2.0.32
+typing_extensions==4.12.2
